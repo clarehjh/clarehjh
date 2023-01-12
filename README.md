@@ -4,8 +4,8 @@
 
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=clarehjh&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
-- 📫 我的邮箱: [hjhclare@163.com]
-- 📝 我的网站: 
+- 📫 我的邮箱: hjhclare@163.com
+
 
 ### 前端技术
 <code><img height="20" src="./img/skill/Html.png" title="Html" /></code>
@@ -40,5 +40,5 @@
 
 ### 个人网站 | 技术社区
 
-* [博客园](https://www.cnblogs.com/clarehjh/)
-* [掘金](https://juejin.cn/user/2885580832641213)
+* 📝[博客园](https://www.cnblogs.com/clarehjh/)
+* 📝[掘金](https://juejin.cn/user/2885580832641213)
