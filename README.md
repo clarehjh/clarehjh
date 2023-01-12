@@ -32,7 +32,6 @@
 <code><img height="20" src="./img/skill/Stylelint.png" title="Stylelint" /></code>
 
 ### 开发工具
-<code><img height="20" src="./img/skill/Webstorm.png" title="Webstorm" /></code>
 <code><img height="20" src="./img/skill/Vscode.png" title="Vscode" /></code>
 <code><img height="20" src="./img/skill/HBilderX.png" title="HBilderX" /></code>
 <code><img height="20" src="./img/skill/微信开发者工具.png" title="微信开发者工具" /></code>
