@@ -38,7 +38,7 @@
 <code><img height="20" src="./img/skill/微信开发者工具.png" title="微信开发者工具" /></code>
 
 ---
-<img align="right" width="420" src="https://skyline.github.com/clarehjh/2023&layout=compact"/>
+<img align="right" width="420" src="https://skyline.github.com/?username=clarehjh&layout=compact"/>
 
 ### 个人网站 | 技术社区
 
