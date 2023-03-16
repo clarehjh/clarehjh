@@ -7,6 +7,9 @@
 - 📫 我的邮箱: hjhclare@163.com
 
 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarehjh&layout=compact"/>
+
+
 ### 前端技术
 <code><img height="20" src="./img/skill/Html.png" title="Html" /></code>
 <code><img height="20" src="./img/skill/Css.png" title="Css" /></code>
@@ -21,7 +24,6 @@
 <code><img height="20" src="./img/skill/Wxapp.png" title="微信小程序" /></code>
 <code><img height="20" src="./img/skill/Vite.png" title="Vite" /></code>
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarehjh&layout=compact"/>
 
 
 ### 后端技术
