@@ -21,7 +21,8 @@
 <code><img height="20" src="./img/skill/Wxapp.png" title="微信小程序" /></code>
 <code><img height="20" src="./img/skill/Vite.png" title="Vite" /></code>
 
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarehjh&layout=compact"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarehjh&layout=compact"/>
+
 
 ### 后端技术
 <code><img height="20" src="./img/skill/Node.png" title="NodeJS" /></code>
@@ -31,6 +32,7 @@
 <code><img height="20" src="./img/skill/Eslint.png" title="Eslint" /></code>
 <code><img height="20" src="./img/skill/Stylelint.png" title="Stylelint" /></code>
 
+---
 ### 开发工具
 <code><img height="20" src="./img/skill/Vscode.png" title="Vscode" /></code>
 <code><img height="20" src="./img/skill/HBilderX.png" title="HBilderX" /></code>
