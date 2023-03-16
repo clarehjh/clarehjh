@@ -7,7 +7,7 @@
 - 📫 我的邮箱: hjhclare@163.com
 
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarehjh&layout=compact"/>
+<img align="right" width="420" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarehjh&layout=compact"/>
 
 
 ### 前端技术
