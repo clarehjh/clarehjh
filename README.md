@@ -29,6 +29,8 @@
 ### 后端技术
 <code><img height="20" src="./img/skill/Node.png" title="NodeJS" /></code>
 <code><img height="20" src="./img/skill/Mysql.png" title="Mysql" /></code>
+  <code><img height="20" src="./img/skill/Python" title="Python" /></code>
+<code><img height="20" src="./img/skill/NestJs.png" title="NestJs" /></code>
 
 ### 代码规范
 <code><img height="20" src="./img/skill/Eslint.png" title="Eslint" /></code>
